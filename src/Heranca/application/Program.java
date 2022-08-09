@@ -1,6 +1,8 @@
-package application;
+package Heranca.application;
 
-import entities.*;
+import Heranca.entities.Account;
+import Heranca.entities.BusinessAccount;
+import Heranca.entities.SavingsAccount;
 
 public class Program {
     public static void main(String[] args) {

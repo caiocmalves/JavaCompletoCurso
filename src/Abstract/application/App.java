@@ -1,13 +1,13 @@
-package application;
+package Abstract.application;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import entities.Shape;
-import entities.circle;
-import entities.rectangle;
-import entities.enums.Color;
+import Abstract.entities.Shape;
+import Abstract.entities.circle;
+import Abstract.entities.rectangle;
+import Abstract.entities.enums.Color;
 
 public class App {
     public static void main(String[] args) {

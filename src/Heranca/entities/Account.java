@@ -1,4 +1,4 @@
-package entities;
+package Heranca.entities;
 
 public class Account {
     

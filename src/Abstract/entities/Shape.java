@@ -1,6 +1,6 @@
-package entities;
+package Abstract.entities;
 
-import entities.enums.Color;
+import Abstract.entities.enums.Color;
 
 public abstract class Shape {
     private Color color;

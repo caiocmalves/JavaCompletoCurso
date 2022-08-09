@@ -1,7 +1,8 @@
-package application;
+package Estoque.application;
 
 import java.util.Scanner;
-import entities.Product;
+
+import Estoque.entities.Product;
 
 public class Program {
     public static void main(String[] args) {

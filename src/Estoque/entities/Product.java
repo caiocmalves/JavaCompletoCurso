@@ -1,4 +1,4 @@
-package entities;
+package Estoque.entities;
 
 public class Product {
     private String name;

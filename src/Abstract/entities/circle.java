@@ -1,6 +1,6 @@
-package entities;
+package Abstract.entities;
 
-import entities.enums.Color;
+import Abstract.entities.enums.Color;
 
 public class circle extends Shape{
 
